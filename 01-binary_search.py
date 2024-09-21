@@ -1,4 +1,4 @@
-# Python 3 programı - Özyinelemeli (recursive) ikili arama (binary search).
+# Özyinelemeli (recursive) ikili arama (binary search).
 # Eski Python 2 için yapılması gereken değişiklikler yorum satırlarında belirtilmiştir.
 
 # Eğer x dizide varsa, x'in indeksini döndürüyorum, yoksa -1 döndürüyorum
